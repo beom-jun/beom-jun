@@ -8,10 +8,15 @@
   ## Welcome My Profile 👋
 </div>
 
-<div align="center">
-  
+
+<hr>
+<p>🧑‍💻Using Stack</p>
+
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=HTML5&logoColor=white">&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=HTML5&logoColor=white">&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=HTML5&logoColor=white">
-</div>
+
+<p>✍️Studying Stack</p>
+
+<img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=HTML5&logoColor=white">
 
 
 
