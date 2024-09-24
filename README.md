@@ -5,11 +5,11 @@
 
 <div align="center">
   
-  ## Welcome My Profile 👋
+  ## Welcome BeomJoon Profile 👋
 </div>
 
 <div align="center">
-<p>Record</p>
+<p>💾Record</p>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=beom-jun&show_icons=true&bg_color=00000000)
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=beom-jun&layout=compact" height="194px">
@@ -23,7 +23,7 @@
 </div>
 
 <div align="center">
-<p>✍️Studying Skill</p>
+<p>🔥Studying Skill</p>
 
 <img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=HTML5&logoColor=white">
 </div>
